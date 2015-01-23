@@ -2,3 +2,4 @@ numpy
 matplotlib
 IPython[all]
 scipy
+coursera-dl
